@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'dev-portfolio-course',
 
-  projectId: 'eyrwrhx6',
+  projectId: 'nu3ftpnl',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
